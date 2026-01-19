@@ -10,7 +10,7 @@
             "type": "Microsoft.Storage/storageAccounts",
             "apiVersion": "2023-01-01",
             "tags": {
-                "displayName": "storageacct11232lla11232"
+                "displayName": "storageacct11232"
             },
             "location": "[resourceGroup().location]",
             "kind": "StorageV2",
